@@ -6,8 +6,8 @@
 
 ### Links and Resources
 * [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com) (when applicable)
+* [travis]()
+* [heroku]()
 * [front-end](http://xyz.com) (when applicable)
 
 #### Documentation
