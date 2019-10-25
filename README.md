@@ -6,8 +6,8 @@
 
 ### Links and Resources
 * [submission PR](http://xyz.com)
-* [travis]()
-* [heroku]()
+* [travis](https://travis-ci.com/heyerthb/lab-09-API-servers/jobs/249386700)
+* [heroku](https://dashboard.heroku.com/apps/heyert-lab-09-apiserver/deploy/github)
 * [front-end](http://xyz.com) (when applicable)
 
 #### Documentation
